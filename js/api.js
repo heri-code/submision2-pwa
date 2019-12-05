@@ -1,4 +1,4 @@
-var base_url = "https://www.football-data.org/";
+var base_url = "https://api.football-data.org/";
 
 var options={
   mode: 'no-cors',
